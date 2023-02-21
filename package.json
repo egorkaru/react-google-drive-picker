@@ -1,5 +1,5 @@
 {
-  "name": "react-google-drive-picker",
+  "name": "@egorka/react-google-drive-picker",
   "version": "1.2.0",
   "description": "React google drive picker api",
   "types": "./dist",
@@ -14,10 +14,10 @@
   "author": "Jose-cd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jose-cd/React-google-drive-picker.git"
+    "url": "git+https://github.com/egorkaru/react-google-drive-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/Jose-cd/React-google-drive-picker/issues"
+    "url": "https://github.com/egorkaru/react-google-drive-picker/issues"
   },
   "license": "MIT",
   "keywords": [
